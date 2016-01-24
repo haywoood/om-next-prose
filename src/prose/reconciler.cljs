@@ -7,7 +7,9 @@
 (defmethod read :default
   [{:keys [query state]} k _]
   (let [st @state]
-    {:value (om/db->tree query (get st k) st)}))
+    (if-let [value (om/db->tree query (get st k) st)]
+      {:value value}
+      {:value :not-found})))
 
 (def reconciler
   (om/reconciler {:state  state/state

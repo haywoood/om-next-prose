@@ -22,6 +22,18 @@
 
 (def line (om/factory Line {:key-fn :id}))
 
+(defui Line-Input
+  om/IQuery
+  (query [this]
+    {:line-in-progress [:text]})
+
+  Object
+  (render [this]
+    (let [{:keys [text]} (om/props this)]
+      (dom/div nil text))))
+
+(def line-input (om/factory Line-Input))
+
 (defui Stanza
   om/Ident
   (ident [this {:keys [id]}]
@@ -29,12 +41,11 @@
 
   om/IQuery
   (query [this]
-    [:id :title `{:prose/lines ~(om/get-query Line)}])
+    `[:id :title {:prose/lines ~(om/get-query Line)}])
 
   Object
   (render [this]
-    (let [{:keys [id title] :as props} (om/props this)
-          lines (:prose/lines props)]
+    (let [{:keys [id title prose/lines]} (om/props this)]
       (dom/li nil
               (str id " " title)
               (apply dom/div nil (map line lines))))))
@@ -44,12 +55,14 @@
 (defui Prose
   om/IQuery
   (query [this]
-    `[{:prose/stanzas ~(om/get-query Stanza)}])
+    `[~(om/get-query Line-Input)
+      {:prose/stanzas ~(om/get-query Stanza)}])
 
   Object
   (render [this]
-    (let [props (om/props this)
-          stanzas (:prose/stanzas props)]
-      (apply dom/ul nil (map stanza stanzas)))))
+    (let [{:keys [prose/stanzas line-in-progress]} (om/props this)]
+      (dom/div nil
+               (apply dom/ul nil (map stanza stanzas))
+               (line-input line-in-progress)))))
 
 (om/add-root! reconciler/reconciler Prose (gdom/getElement "app"))
