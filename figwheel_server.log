@@ -984,3 +984,2854 @@ Compiling /Users/haywood/trash/prose/src/prose/core.cljs
 Compiling target/figwheel_temp/dev/figwheel/connect.cljs
 notifying browser that file changed:  out/prose/core.js
 [32mSuccessfully compiled "resources/public/js/main.js" in 0.239 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.135 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.654 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/haywood/trash/prose/src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.485 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/haywood/trash/prose/src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.426 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/haywood/trash/prose/src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.544 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.445 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.731 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.636 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.6 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.395 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.386 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.379 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.346 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.365 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.242 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.269 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.399 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.272 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.207 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.218 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.222 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.323 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.286 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.217 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.227 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.211 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.212 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.217 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.211 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.217 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.21 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.212 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.257 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.195 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.222 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.212 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.19 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+WARNING: Use of undeclared Var prose.core/params at line 36 src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.468 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/haywood/trash/prose/src/prose/core.cljs, line 36, column 22
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.099 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/haywood/trash/prose/src/prose/core.cljs, line 37, column 12
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.1 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+WARNING: Use of undeclared Var prose.core/value at line 36 src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.285 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+WARNING: Use of undeclared Var prose.core/value at line 36 src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.238 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+WARNING: Use of undeclared Var prose.core/value at line 36 src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+WARNING: Use of undeclared Var prose.core/value at line 36 src/prose/core.cljs
+WARNING: Use of undeclared Var prose.core/value at line 39 src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.283 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.194 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+WARNING: Use of undeclared Var prose.core/input at line 85 src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.296 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+WARNING: Use of undeclared Var prose.core/input at line 85 src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.28 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.201 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.229 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 45 src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.247 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.19 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+WARNING: Wrong number of args (1) passed to cljs.core/swap! at line 49 src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.282 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+WARNING: Wrong number of args (0) passed to cljs.core/set at line 54 src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.417 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.208 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.258 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.243 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.259 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.25 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.21 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.32 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.211 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.218 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.222 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.238 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.212 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.194 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+WARNING: Wrong number of args (0) passed to om.next/db->tree at line 63 src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.199 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.216 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.204 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.204 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.2 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.185 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.265 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.282 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.21 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.231 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.233 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.21 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.216 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.217 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.198 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.193 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.213 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.207 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.256 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.291 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.186 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.217 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.282 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.221 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.211 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.203 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.219 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.201 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.237 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.32 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.21 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.212 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.204 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.24 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.214 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.231 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.226 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+[31mCompiling "resources/public/js/main.js" failed.
+[0mjava.lang.AssertionError: No ns form found in src/prose/parser/parser.cljs
+ at cljs.analyzer$parse_ns$fn__2111.invoke (analyzer.cljc:2731)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2682)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2673)
+    cljs.compiler$find_source.invoke (compiler.cljc:1389)
+    clojure.core$map$fn__4553.invoke (core.clj:2624)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$reduce1.invoke (core.clj:909)
+    clojure.core$set.invoke (core.clj:3960)
+    cljs.closure$add_dependency_sources.invoke (closure.clj:731)
+    cljs.closure$build.invoke (closure.clj:1807)
+    cljs.build.api$build.invoke (api.clj:207)
+    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:22)
+    figwheel_sidecar.build_middleware.injection$hook$fn__15856.invoke (injection.clj:139)
+    figwheel_sidecar.build_middleware.notifications$hook$fn__16183.invoke (notifications.clj:187)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__16259.invoke (clj_reloading.clj:115)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__16305.invoke (javascript_reloading.clj:60)
+    figwheel_sidecar.components.cljs_autobuild$eval16320$figwheel_start_and_end_messages__16323$fn__16325.invoke (cljs_autobuild.clj:45)
+    figwheel_sidecar.components.cljs_autobuild.CLJSAutobuild$fn__16350$fn__16351.invoke (cljs_autobuild.clj:137)
+    figwheel_sidecar.utils$sync_exec$fn__12232$fn__12233.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__12232.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+    clojure.lang.Agent$Action.run (Agent.java:163)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.029 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parser/parser.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/parser.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.136 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/prose/parser.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.186 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parser.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/parser.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.14 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parser/proser/parser/reads.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/parser/proser/parser/reads.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.164 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parser/proser/parser/reads.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/parser/reads.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.125 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parser/reads.cljs
+notifying browser that file changed:  out/prose/parser/reads.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.231 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parser/mutates.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/parser/mutates.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.164 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: Only :as alias and :refer (names) options supported in :require; offending spec: [om.next :as om prose.parser :as p] at line 1 src/prose/parsers/reads.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.analyzer$error.invoke (analyzer.cljc:568)
+    cljs.analyzer$error.invoke (analyzer.cljc:566)
+    cljs.analyzer$basic_validate_ns_spec.invoke (analyzer.cljc:1698)
+    cljs.analyzer$parse_require_spec.invoke (analyzer.cljc:1739)
+    clojure.lang.AFn.applyToHelper (AFn.java:171)
+    clojure.lang.AFn.applyTo (AFn.java:144)
+    clojure.core$apply.invoke (core.clj:636)
+    clojure.core$partial$fn__4533.doInvoke (core.clj:2512)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$map$fn__4553.invoke (core.clj:2624)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.boundedLength (RT.java:1735)
+    clojure.lang.RestFn.applyTo (RestFn.java:130)
+    clojure.core$apply.invoke (core.clj:634)
+    cljs.analyzer$eval1838$fn__1840$fn__1845.invoke (analyzer.cljc:1926)
+    clojure.core.protocols/fn (protocols.clj:167)
+    clojure.core.protocols$fn__6478$G__6473__6487.invoke (protocols.clj:19)
+    clojure.core.protocols$seq_reduce.invoke (protocols.clj:31)
+    clojure.core.protocols/fn (protocols.clj:101)
+    clojure.core.protocols$fn__6452$G__6447__6465.invoke (protocols.clj:13)
+    clojure.core$reduce.invoke (core.clj:6519)
+    cljs.analyzer$eval1838$fn__1840.invoke (analyzer.cljc:1909)
+    clojure.lang.MultiFn.invoke (MultiFn.java:251)
+    cljs.analyzer$analyze_seq_STAR_.invoke (analyzer.cljc:2390)
+    cljs.analyzer$analyze_seq_STAR__wrap.invoke (analyzer.cljc:2395)
+    cljs.analyzer$analyze_seq.invoke (analyzer.cljc:2416)
+    cljs.analyzer$analyze_form.invoke (analyzer.cljc:2525)
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.028 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Compiling src/prose/parsers/reads.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/parsers/reads.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.34 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parsers/mutates.cljs
+WARNING: Use of undeclared Var prose.parsers.mutates/make-line at line 14 src/prose/parsers/mutates.cljs
+WARNING: Use of undeclared Var prose.parsers.mutates/make-line-ref at line 15 src/prose/parsers/mutates.cljs
+WARNING: Use of undeclared Var prose.parsers.mutates/line-ref-name at line 20 src/prose/parsers/mutates.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/parsers/mutates.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.235 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/constants.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/constants.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.222 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+WARNING: Use of undeclared Var prose.core/parser at line 30 src/prose/core.cljs
+WARNING: Use of undeclared Var prose.core/make-line-ref at line 35 src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Compiling src/prose/constants.cljs
+Compiling src/prose/utils.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/core.js
+notifying browser that file changed:  out/prose/constants.js
+notifying browser that file changed:  out/prose/utils.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.335 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/utils.cljs
+Compiling src/prose/core.cljs
+WARNING: Use of undeclared Var prose.core/parser at line 27 src/prose/core.cljs
+WARNING: Use of undeclared Var prose.core/make-line-ref at line 32 src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/core.js
+notifying browser that file changed:  out/prose/utils.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.255 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/components/app.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/components/app.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.127 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+WARNING: Use of undeclared Var prose.core/parser at line 27 src/prose/core.cljs
+WARNING: Use of undeclared Var prose.core/ProseApp at line 31 src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Compiling src/prose/components/app.cljs
+WARNING: Use of undeclared Var prose.utils/make-line-ref at line 10 src/prose/components/app.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/core.js
+notifying browser that file changed:  out/prose/components/app.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.239 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/components/app.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/components/app.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.205 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parsers/mutates.cljs
+WARNING: Use of undeclared Var prose.utils/make-line-ref at line 17 src/prose/parsers/mutates.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/parsers/mutates.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.143 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/haywood/trash/prose/src/prose/constants.cljs
+Compiling src/prose/parsers/mutates.cljs
+WARNING: Use of undeclared Var prose.utils/make-line-ref at line 17 src/prose/parsers/mutates.cljs
+Compiling src/prose/components/app.cljs
+WARNING: Use of undeclared Var prose.constants/make-line-ref at line 10 src/prose/components/app.cljs
+notifying browser that file changed:  out/prose/constants.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.228 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/utils.cljs
+WARNING: Use of undeclared Var prose.utils/line-ref-name at line 9 src/prose/utils.cljs
+Compiling src/prose/parsers/mutates.cljs
+notifying browser that file changed:  out/prose/utils.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.141 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/haywood/trash/prose/src/prose/utils.cljs
+Compiling src/prose/parsers/mutates.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/utils.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.126 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/haywood/trash/prose/src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.117 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/components/app.cljs
+Compiling /Users/haywood/trash/prose/src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/components/app.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.258 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR:  on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.262 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR:  on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.77 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parser.cljs
+Compiling src/prose/parsers/mutates.cljs
+Compiling /Users/haywood/trash/prose/src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Compiling src/prose/parsers/reads.cljs
+notifying browser that file changed:  out/prose/parser.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.34 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parsers/reads.cljs
+notifying browser that file changed:  out/prose/parsers/reads.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.112 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parser.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: No such namespace: prose.parsers.mutates.prose.parsers.reads, could not locate prose/parsers/mutates/prose/parsers/reads.cljs, prose/parsers/mutates/prose/parsers/reads.cljc, or Closure namespace "prose.parsers.mutates.prose.parsers.reads" on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.073 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: Only lib.ns.Ctor or [lib.ns Ctor*] spec supported in :import; offending spec: (quote (prose.parsers.mutates)) at line 1 src/prose/parser.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.analyzer$error.invoke (analyzer.cljc:568)
+    cljs.analyzer$error.invoke (analyzer.cljc:566)
+    cljs.analyzer$parse_import_spec.invoke (analyzer.cljc:1777)
+    clojure.core$partial$fn__4529.invoke (core.clj:2500)
+    clojure.core$map$fn__4553.invoke (core.clj:2624)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.boundedLength (RT.java:1735)
+    clojure.lang.RestFn.applyTo (RestFn.java:130)
+    clojure.core$apply.invoke (core.clj:634)
+    cljs.analyzer$eval1838$fn__1840$fn__1845.invoke (analyzer.cljc:1926)
+    clojure.core.protocols/fn (protocols.clj:167)
+    clojure.core.protocols$fn__6478$G__6473__6487.invoke (protocols.clj:19)
+    clojure.core.protocols$seq_reduce.invoke (protocols.clj:31)
+    clojure.core.protocols/fn (protocols.clj:101)
+    clojure.core.protocols$fn__6452$G__6447__6465.invoke (protocols.clj:13)
+    clojure.core$reduce.invoke (core.clj:6519)
+    cljs.analyzer$eval1838$fn__1840.invoke (analyzer.cljc:1909)
+    clojure.lang.MultiFn.invoke (MultiFn.java:251)
+    cljs.analyzer$analyze_seq_STAR_.invoke (analyzer.cljc:2390)
+    cljs.analyzer$analyze_seq_STAR__wrap.invoke (analyzer.cljc:2395)
+    cljs.analyzer$analyze_seq.invoke (analyzer.cljc:2416)
+    cljs.analyzer$analyze_form.invoke (analyzer.cljc:2525)
+    cljs.analyzer$analyze_STAR_.invoke (analyzer.cljc:2572)
+    cljs.analyzer$analyze.invoke (analyzer.cljc:2588)
+    cljs.analyzer$parse_ns$fn__2111$fn__2112.invoke (analyzer.cljc:2704)
+    cljs.analyzer$parse_ns$fn__2111.invoke (analyzer.cljc:2704)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2682)
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.023 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR:  on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.722 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR:  on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.715 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parsers/reads.cljs
+WARNING: Use of undeclared Var prose.parsers.reads/read at line 4 src/prose/parsers/reads.cljs
+WARNING: Use of undeclared Var prose.parsers.reads/read at line 9 src/prose/parsers/reads.cljs
+Compiling src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR:  at line 1 file:/Users/haywood/trash/prose/src/prose/parser.cljs on file file:/Users/haywood/trash/prose/src/prose/parser.cljs, line 1, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.819 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parsers/mutates.cljs
+WARNING: Use of undeclared Var prose.parsers.mutates/mutate at line 6 src/prose/parsers/mutates.cljs
+WARNING: Use of undeclared Var prose.parsers.mutates/mutate at line 12 src/prose/parsers/mutates.cljs
+Compiling src/prose/parser.cljs
+Reading analysis cache for file:/Users/haywood/trash/prose/src/prose/parsers/mutates.cljs
+Reading analysis cache for file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/parsers/mutates.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.187 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parser.cljs
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/parser.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.12 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parser.cljs
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/parser.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.144 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parser.cljs
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/parser.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.13 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: Only [lib.ns :only (names)] specs supported in :use / :use-macros; offending spec: [prose.parsers.mutates] at line 1 src/prose/parser.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.analyzer$error.invoke (analyzer.cljc:568)
+    cljs.analyzer$error.invoke (analyzer.cljc:566)
+    cljs.analyzer$use__GT_require.invoke (analyzer.cljc:1730)
+    clojure.core$partial$fn__4527.invoke (core.clj:2493)
+    clojure.core$comp$fn__4495.invoke (core.clj:2438)
+    clojure.core$map$fn__4553.invoke (core.clj:2624)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.boundedLength (RT.java:1735)
+    clojure.lang.RestFn.applyTo (RestFn.java:130)
+    clojure.core$apply.invoke (core.clj:634)
+    cljs.analyzer$eval1838$fn__1840$fn__1845.invoke (analyzer.cljc:1926)
+    clojure.core.protocols/fn (protocols.clj:167)
+    clojure.core.protocols$fn__6478$G__6473__6487.invoke (protocols.clj:19)
+    clojure.core.protocols$seq_reduce.invoke (protocols.clj:31)
+    clojure.core.protocols/fn (protocols.clj:101)
+    clojure.core.protocols$fn__6452$G__6447__6465.invoke (protocols.clj:13)
+    clojure.core$reduce.invoke (core.clj:6519)
+    cljs.analyzer$eval1838$fn__1840.invoke (analyzer.cljc:1909)
+    clojure.lang.MultiFn.invoke (MultiFn.java:251)
+    cljs.analyzer$analyze_seq_STAR_.invoke (analyzer.cljc:2390)
+    cljs.analyzer$analyze_seq_STAR__wrap.invoke (analyzer.cljc:2395)
+    cljs.analyzer$analyze_seq.invoke (analyzer.cljc:2416)
+    cljs.analyzer$analyze_form.invoke (analyzer.cljc:2525)
+    cljs.analyzer$analyze_STAR_.invoke (analyzer.cljc:2572)
+    cljs.analyzer$analyze.invoke (analyzer.cljc:2588)
+    cljs.analyzer$parse_ns$fn__2111$fn__2112.invoke (analyzer.cljc:2704)
+    cljs.analyzer$parse_ns$fn__2111.invoke (analyzer.cljc:2704)
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.033 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parser.cljs
+WARNING: Use of undeclared Var prose.parser/load at line 4 src/prose/parser.cljs
+WARNING: Use of undeclared Var prose.parser/load at line 5 src/prose/parser.cljs
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/parser.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.202 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parser.cljs
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/prose/parser.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.191 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parsers/reads.cljs
+WARNING: Use of undeclared Var prose.parsers.reads/read at line 5 src/prose/parsers/reads.cljs
+WARNING: Use of undeclared Var prose.parsers.reads/read at line 10 src/prose/parsers/reads.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/parsers/reads.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.153 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parsers/reads.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/parsers/reads.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.136 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parsers/mutates.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/parsers/mutates.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.106 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parsers/reads.cljs
+notifying browser that file changed:  out/prose/parsers/reads.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.145 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parsers/mutates.cljs
+notifying browser that file changed:  out/prose/parsers/mutates.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.112 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/haywood/trash/prose/target/classes/prose/state.cljs
+Compiling /Users/haywood/trash/prose/target/classes/prose/reconciler.cljs
+Compiling /Users/haywood/trash/prose/src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/Users/haywood/trash/prose/src/prose/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.143 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/haywood/trash/prose/src/prose/reconciler.cljs
+Compiling /Users/haywood/trash/prose/src/prose/core.cljs
+Reading analysis cache for file:/Users/haywood/trash/prose/src/prose/reconciler.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Referred var prose.reconciler/reconciler does not exist on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.107 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/reconciler.cljs
+Compiling /Users/haywood/trash/prose/src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/Users/haywood/trash/prose/src/prose/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/reconciler.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.125 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/Users/haywood/trash/prose/src/prose/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.151 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/haywood/trash/prose/src/prose/components/app.cljs
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/Users/haywood/trash/prose/src/prose/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/components/app.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.225 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/haywood/trash/prose/src/prose/components/app.cljs
+Reading analysis cache for file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/Users/haywood/trash/prose/src/prose/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/components/app.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.187 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/Users/haywood/trash/prose/src/prose/core.cljs
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.12 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: :as alias must be unique; offending spec: [prose.parsers.mutates :as prose] at line 1 src/prose/components/app.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.analyzer$error.invoke (analyzer.cljc:568)
+    cljs.analyzer$error.invoke (analyzer.cljc:566)
+    cljs.analyzer$parse_require_spec.invoke (analyzer.cljc:1755)
+    clojure.lang.AFn.applyToHelper (AFn.java:171)
+    clojure.lang.AFn.applyTo (AFn.java:144)
+    clojure.core$apply.invoke (core.clj:636)
+    clojure.core$partial$fn__4533.doInvoke (core.clj:2512)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$map$fn__4553.invoke (core.clj:2622)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.boundedLength (RT.java:1735)
+    clojure.lang.RestFn.applyTo (RestFn.java:130)
+    clojure.core$apply.invoke (core.clj:634)
+    cljs.analyzer$eval1838$fn__1840$fn__1845.invoke (analyzer.cljc:1926)
+    clojure.core.protocols/fn (protocols.clj:167)
+    clojure.core.protocols$fn__6478$G__6473__6487.invoke (protocols.clj:19)
+    clojure.core.protocols$seq_reduce.invoke (protocols.clj:31)
+    clojure.core.protocols/fn (protocols.clj:101)
+    clojure.core.protocols$fn__6452$G__6447__6465.invoke (protocols.clj:13)
+    clojure.core$reduce.invoke (core.clj:6519)
+    cljs.analyzer$eval1838$fn__1840.invoke (analyzer.cljc:1909)
+    clojure.lang.MultiFn.invoke (MultiFn.java:251)
+    cljs.analyzer$analyze_seq_STAR_.invoke (analyzer.cljc:2390)
+    cljs.analyzer$analyze_seq_STAR__wrap.invoke (analyzer.cljc:2395)
+    cljs.analyzer$analyze_seq.invoke (analyzer.cljc:2416)
+    cljs.analyzer$analyze_form.invoke (analyzer.cljc:2525)
+    cljs.analyzer$analyze_STAR_.invoke (analyzer.cljc:2572)
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.02 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/haywood/trash/prose/src/prose/components/app.cljs
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/Users/haywood/trash/prose/src/prose/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/components/app.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.204 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parsers/reads.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Invalid token: ::prose/input on file /Users/haywood/trash/prose/src/prose/parsers/reads.cljs, line 10, column 30
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.095 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parsers/reads.cljs
+notifying browser that file changed:  out/prose/parsers/reads.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.104 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parser.cljs
+WARNING: Use of undeclared Var prose.parser/read at line 7 src/prose/parser.cljs
+Compiling src/prose/parsers/mutates.cljs
+Compiling src/prose/reconciler.cljs
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/Users/haywood/trash/prose/src/prose/core.cljs
+Compiling src/prose/parsers/reads.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Referred var prose.parser/read does not exist on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.121 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parsers/reads.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR:  at line 1 file:/Users/haywood/trash/prose/src/prose/parser.cljs on file file:/Users/haywood/trash/prose/src/prose/parser.cljs, line 1, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.948 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+[31mCompiling "resources/public/js/main.js" failed.
+[0mclojure.lang.ExceptionInfo: Unmatched delimiter ]
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    clojure.tools.reader.reader_types$reader_error.doInvoke (reader_types.clj:331)
+    clojure.lang.RestFn.invoke (RestFn.java:439)
+    clojure.tools.reader$read_unmatched_delimiter.invoke (reader.clj:76)
+    clojure.tools.reader$read_STAR_.invoke (reader.clj:889)
+    clojure.tools.reader$read_delimited.invoke (reader.clj:195)
+    clojure.tools.reader$read_list.invoke (reader.clj:208)
+    clojure.tools.reader$read_STAR_.invoke (reader.clj:889)
+    clojure.tools.reader$read_delimited.invoke (reader.clj:195)
+    clojure.tools.reader$read_list.invoke (reader.clj:208)
+    clojure.tools.reader$read_STAR_.invoke (reader.clj:889)
+    clojure.tools.reader$read.invoke (reader.clj:938)
+    cljs.analyzer$forms_seq_STAR_$forms_seq___2095$fn__2096$fn__2097.invoke (analyzer.cljc:2626)
+    cljs.analyzer$forms_seq_STAR_$forms_seq___2095$fn__2096.invoke (analyzer.cljc:2619)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:507)
+    clojure.core/seq (core.clj:137)
+    cljs.analyzer$parse_ns$fn__2111.invoke (analyzer.cljc:2702)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2682)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2673)
+    cljs.compiler$find_source.invoke (compiler.cljc:1389)
+    clojure.core$map$fn__4553.invoke (core.clj:2624)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$reduce1.invoke (core.clj:909)
+    clojure.core$set.invoke (core.clj:3960)
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.037 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parsers/reads.cljs
+Compiling /Users/haywood/trash/prose/src/prose/parser.cljs
+Compiling src/prose/parsers/mutates.cljs
+Compiling src/prose/reconciler.cljs
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/Users/haywood/trash/prose/src/prose/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/parsers/reads.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.14 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+Analyzing file:/Users/haywood/trash/prose/src/prose/parser.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR:  at line 1 file:/Users/haywood/trash/prose/src/prose/parser.cljs on file file:/Users/haywood/trash/prose/src/prose/parser.cljs, line 1, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.867 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/parsers/mutates.cljs
+Compiling src/prose/parser.cljs
+Compiling src/prose/reconciler.cljs
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/Users/haywood/trash/prose/src/prose/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/parsers/mutates.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.135 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/haywood/trash/prose/src/prose/reconciler.cljs
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/Users/haywood/trash/prose/src/prose/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/reconciler.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.126 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/prose/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/Users/haywood/trash/prose/src/prose/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/prose/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.122 seconds.[0m
